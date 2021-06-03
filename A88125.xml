@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and approaching death of William Kiffin. Extracted out the visitation book by a church member.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88125</idno><idno type="EEBO-CITATION">99866932</idno>
+  <idno type="VID">168814</idno>
+  <idno type="EEBO-PROQUEST">2240930037</idno>
+  
+            <idno type="STC">Wing L1989</idno>
+            <idno type="STC">Thomason E1017_4</idno>
+            <idno type="STC">ESTC R207913</idno>
+            <idno type="PROQUEST">99866932</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866932e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168814)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and approaching death of William Kiffin. Extracted out the visitation book by a church member.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed fro Thomas Bateman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Kiffin, William, 1616-1701 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168814:1"/>
+            <p>THE LIFE AND Approaching Death OF <hi>WILLIAM KIFFIN.</hi>
+            </p>
+            <p>Extracted out of the VISITATION BOOK BY A Church Member.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>man,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168814:2"/>
+            <pb n="1" facs="tcp:168814:2"/>
+            <head>THE LIFE and approaching DEATH of <hi>William Kiffin.</hi>
+            </head>
+            <p>NOt to rake Dunghils for his extra<g ref="char:EOLhyphen"/>ction, or speak of him in the state of Nature; we will consider him abstractedly from the World and the Flesh, as a Regenerate person borne to do mis<g ref="char:EOLhyphen"/>cief, and get money.</p>
+            <p>'Tis hard tracing such mischievous <hi>Kirk-Pedlars</hi> from their Original: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et it suffice your curiosity, that the first discovery of this <hi>New Light,</hi> was when the three King<g ref="char:EOLhyphen"/>doms were all in a flame; for till that time he truckled under <hi>John Lilburn,</hi> and was learn<g ref="char:EOLhyphen"/>ing the Profession of lying and hypocrisie, a vice he might have spared by reason of his impudence.</p>
+            <p>He was as to Temporal Concernments, the bounden Servant of a Glover, where he
+<pb facs="tcp:168814:3"/> and his Mistris so prick-seamed it, that the Sheriffs Officers excommunicated his Ma<g ref="char:EOLhyphen"/>ster, and delivered him over to a Goaler.</p>
+            <p>Having thus laid his future Advance<g ref="char:EOLhyphen"/>ment upon Private Ruinas, he wisely pro<g ref="char:EOLhyphen"/>jected, that it could be no difficult work, to raise himself upon the Publiques, since all the women (and most of the men too) were as mad one way or another as his Mistris. And after two or three Conferences with Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ience and the Devil, he was by instinct and Revelation, appointed to the Work, and ordained <hi>Mufty</hi> of all Hereticks and Se<g ref="char:EOLhyphen"/>ctaries.</p>
+            <p>But this was not without great heart-burnings of other Gifted-Brethren, who up<g ref="char:EOLhyphen"/>on his Assumption to the Pontificacy and Primacy, began to separate and divide from the Congregation, and to set up for them<g ref="char:EOLhyphen"/>selves in their particular Conventicles, in<g ref="char:EOLhyphen"/>tending to weake. <hi>K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> design and par<g ref="char:EOLhyphen"/>ty: but the Wenches s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uck close unto him, and he prevailed as we see unto this day.</p>
+            <p>Having th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> lifted up himself above Or<g ref="char:EOLhyphen"/>dinances
+<pb n="2" facs="tcp:168814:3"/> either of God of man, he was gra<g ref="char:EOLhyphen"/>ciously Complemented by that precious man <hi>Oliver,</hi> to best is him self in the procu<g ref="char:EOLhyphen"/>ring or setting of hand<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> towards the death of the King, wherein he was a most diligent and painful instrument, both by Doctrine and Example, and was therefore in exceed<g ref="char:EOLhyphen"/>ing great repute and estimation with <hi>No<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> unto his death.</p>
+            <p>I do not read of any great preferment the <hi>Rump</hi> confer'd upon him for it, because I suppose they had not time enough in four years and a half to gratifie themselves for th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir desert in that business: but he was a <hi>Fac totum</hi> to <hi>Snou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> &amp; his right hand of Vil<g ref="char:EOLhyphen"/>lany, and was every thing he would be; <hi>viz.</hi> From a stitche<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of sheep skins by the do<g ref="char:EOLhyphen"/>zen (if he was ever trusted then with so ma<g ref="char:EOLhyphen"/>ny) though a thousand dic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er would scarce pallia<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or cover his wolfishness, he rose to be a M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rchant of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l skins, his correspon<g ref="char:EOLhyphen"/>dence first laid upon that account with th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Ananias's</hi> of <hi>Amsterdam,</hi> who upon ob<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rance of the <hi>Good Old Cause,</hi>
+               <gap reason="illegible" resp="#keyers" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>ned <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:168814:4"/> yearly the two Busses againgst <hi>Queen-hithe.</hi>
+            </p>
+            <p>Next, the grand <hi>Cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Spy, Olivers</hi> Emis<g ref="char:EOLhyphen"/>sary, <hi>The Betrayer of the Brethren,</hi> the great <hi>Ear-wig</hi> of that transitory State, an able <hi>pro<g ref="char:EOLhyphen"/>found Divine,</hi> that could distinguish betwixt <hi>(Great Man)</hi> and <hi>(Highness)</hi> and supplant <hi>Feak</hi> and <hi>Sympson,</hi> by their dissenting to substitute the Usurper as Deputy to their <hi>Millenary</hi> Reign and Government.</p>
+            <p>Room for a Knight of <hi>Middlesex,</hi> with his sword girt about his middle: Don <hi>John Barkstead</hi> and this valliant famous Knight, (by the help of a fearful Sheriff, &amp; the un<g ref="char:EOLhyphen"/>controulable directions of the Tyrant, with the pious and devout suffrage of the rasca<g ref="char:EOLhyphen"/>lity of the Town) were returned the Re<g ref="char:EOLhyphen"/>presentatives of the County. The one bore for his imp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ese a shield call'd a <hi>Thimble,</hi> and our <hi>Quixot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> was offensively armed with a <hi>Spanish Pike,</hi> that would peirce any leather but Buff▪ and if you compare his Speeches in that <hi>mock-Parliament,</hi> with his Exercises and Lectures at <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Bedlam,</hi> you would wonder one and the same man could be so
+<pb n="5" facs="tcp:168814:4"/> silent and clamorous; but he was <hi>Will</hi> the Whisperer to the one, and the Bawler to the other.</p>
+            <p>This fitted and suited him for a Command in <hi>London,</hi> forsooth a Lieut. Colonel, that for prowess and considerable estate (gained by the roguery aforesaid) ought to be en<g ref="char:EOLhyphen"/>trusted with such a share of the <hi>Militia.</hi> I remember I heard his Neats tongues praised and wel spoken of by the wel-affected that tasted them at <hi>Finsbury</hi> Camp; and let that suffice for a Monument and Chronicle of all his Martial exploits.</p>
+            <p>And now come we to talk of his end: 'Twill be accounted Flattery to praise the living, and 'twill be injustice that the Hangman should not have his due. Howe<g ref="char:EOLhyphen"/>ver for once, let him chuse <hi>Bradshaws</hi> Ague or Impenitence, <hi>Cromwels</hi> Stone or Blasphe<g ref="char:EOLhyphen"/>my, <hi>Hoyls</hi> halter, or desperation, <hi>Knipper-doling,</hi> and <hi>John a Leyd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns</hi> phrensie or de<g ref="char:EOLhyphen"/>served punishment, &amp; I'll assure you he shal make as godly an end as he did a beginning.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
